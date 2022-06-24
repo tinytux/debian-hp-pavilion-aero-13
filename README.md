@@ -14,6 +14,11 @@ Most features work out of the box with Debian 11.3 (Kernel 5.10.0-13):
 * USB
 * Battery
 * Suspend/resume
+* HDMI (2560x1440@60Hz)
+
+Working with Kernel 5.18:
+
+* WiFi
 
 Not working:
 
@@ -21,7 +26,6 @@ Not working:
 
 Not tested:
 
-* HDMI
 * Fingerprint reader
 
 ## Fixing WiFi
